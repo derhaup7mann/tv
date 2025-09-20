@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <channel site="programetv.ro" lang="ro" xmltv_id="protv.ro" site_id="PROTV">Pro TV</channel>
+  <channel site="programetv.ro" lang="ro" xmltv_id="antena1.ro" site_id="ANT1">Antena 1</channel>
+</channels>
